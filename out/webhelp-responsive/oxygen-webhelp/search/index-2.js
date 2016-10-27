@@ -1,5 +1,6 @@
 
 // Auto generated index for searching.
+w["fold"]="4*0";
 w["follows"]="1*26,2*26,3*26,4*26";
 w["form"]="3*0";
 w["french"]="2*82";
@@ -17,7 +18,6 @@ w["heat"]="2*1,3*1,4*2";
 w["high"]="3*0";
 w["honey"]="2*0";
 w["how"]="1*0,2*0,3*0,4*0";
-w["illa"]="1*0";
 w["include"]="1*26,2*26,3*26,4*26";
 w["ingredients"]="1*26,2*26,3*27,4*26";
 w["instructions"]="0*26";
@@ -64,7 +64,7 @@ w["one"]="4*0";
 w["onion"]="4*1";
 w["onto"]="2*0,3*0";
 w["open"]="4*0";
-w["other"]="3*0";
+w["other"]="1*51,3*0";
 w["out"]="1*0,4*0";
 w["output"]="0*0,1*0,2*0,3*0,4*0";
 w["oven"]="1*27";
@@ -81,6 +81,7 @@ w["pancake"]="3*7";
 w["pancake-bubbling.jpg"]="3*5";
 w["pancakes"]="3*83";
 w["pepper"]="4*1";
+w["perfect"]="1*51";
 w["pinch"]="2*0";
 w["pink"]="4*0";
 w["place"]="1*0,2*1";
