@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-frenchtoast">
+    <title>French Toast Recipe</title>
+    <shortdesc>This french toast can be paired with toppings of your choice, such as fruit.</shortdesc>
+    <taskbody>
+        <prereq>Materials for this recipe include a measuring cup, a bowl, a skillet, and a stovetop. The ingredients are as follows:<ul>
+                <li>1 cup of soy or almond milk</li>
+                <li>2 tablespoons of chickpea flour</li>
+                <li>2 tablespoons of nutritional yeast</li>
+                <li>1 tablespoon of maple syrup or date honey</li>
+            <li>½ teaspoon of salt</li>
+            <li>1 tablespoon of coconut oil</li>
+                <li>pinch of cinnamon</li>
+                <li>6 thick slices of bread</li>
+                <li>maple syrup</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>How to make:</p>
+        </context>
+        <steps>
+            <step audience="armando">
+                <cmd>Add the chickpea flour to a shallow bowl, and add just a dash of the soy or almond milk.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Beat the egg, vanilla, and cinnamon in a shallow dish.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Mix until smooth, and then add the rest of the milk.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Mix until smooth, and then stir in the milk.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Add the nutritional yeast, maple syrup, vanilla extract, salt, and cinnamon, and whisk together.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Heat up a frying pan with a little coconut oil, and place on medium heat.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Heat up a frying pan with a knock of butter, and place on medium heat.</cmd></step>
+            <step>
+                <cmd>Soak each slice of bread in the mixture for a few seconds on each side.</cmd></step>
+            <step>
+                <cmd>Place slices onto the frying pan to cook until browned on both sides.</cmd>
+            </step>
+            <step>
+                <cmd>Add your desired toppings, and drizzle with syrup.</cmd>
+                <stepresult>
+                    <fig id="fig_em5_xzh_tx">
+                        <title>French Toast with Syrup</title>
+                        <image href="frenchtoast.jpg" id="image_fm5_xzh_tx"/>
+                    </fig>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

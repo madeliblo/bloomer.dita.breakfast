@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-eggs">
+    <title>Cheesy Scrambled Eggs Recipe</title>
+    <shortdesc>This recipe is for eggs and toast, and it can be paired with any choosings of your liking, fruits, your choice of meat, etc.</shortdesc>
+    <taskbody>
+        <prereq>Materials for this recipe include a bowl, a skillet, and a stovetop. The ingredients are as follows:<ul>
+            <li>2-4 large free-range eggs (depending on your appetite)</li>
+            <li>pinch of sea salt</li>
+            <li>pinch of black pepper</li>
+            <li>splash of milk</li>
+            <li>butter</li>
+            <li>shredded cheese of your choice</li>
+            <li>slice of bread (and jelly if you like)</li>
+        </ul>
+        </prereq>
+        <context>
+            <p>How to make:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Crack your eggs into a bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Add a pinch of sea salt and black pepper into the bowl, as well as a splash of
+                    milk for ultimate creaminess.</cmd>
+            </step>
+            <step>
+                <cmd>Beat the eggs together with a fork.</cmd>
+                <stepresult>
+                    <fig id="fig_swb_z13_tx">
+                        <title>Beating Eggs</title>
+                        <image href="beating-eggs.jpg" id="image_twb_z13_tx"/>
+                    </fig>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Put a small skillet over a low heat, and drop in a knob of butter.</cmd>
+            </step>
+            <step>
+                <cmd>Melt the butter slowly until it's frothy. While the butter is melting, pop a slice of bread in the toaster.</cmd>
+                <stepresult>
+                    <fig id="fig_zws_1b3_tx">
+                        <title>Melting Butter</title>
+                        <image href="melting-butter.jpg" id="image_axs_1b3_tx"/>
+                    </fig>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Sprinkle as much cheese as you would like, and stir slowly using a wooden spoon
+                    or spatula, bringing in all the mixture from the edges of the pan.</cmd>
+            </step>
+            <step>
+                <cmd>When the eggs look silky and slightly runny, put them on a plate.</cmd>
+            </step>
+            <step>
+                <cmd>Put butter or jelly on your toast (or you can put your eggs on top and add
+                    another slice to make a sandwich) and enjoy!</cmd>
+                <stepresult>
+                    <fig id="fig_rrj_zb3_tx">
+                        <title>Half Egg Sandwich</title>
+                        <image href="eggs.jpg" id="image_srj_zb3_tx"/>
+                    </fig>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

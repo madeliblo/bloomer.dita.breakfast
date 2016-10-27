@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>DITA Topic Map</title>
+ <topicref href="c-breakfast.dita"/>
+ <topicref href="t-donuts.dita">
+  <topicref href="donuts.jpg" format="jpg"/>
+ </topicref>
+ <topicref href="t-eggs.dita">
+  <topicref href="eggs.jpg" format="jpg"/>
+  <topicref href="melting-butter.jpg" format="jpg"/>
+  <topicref href="stirring-eggs.jpg" format="jpg"/>
+ </topicref>
+ <topicref href="t-frenchtoast.dita">
+  <topicref href="frenchtoast.jpg" format="jpg"/>
+ </topicref>
+ <topicref href="t-pancakes.dita">
+  <topicref href="pancake-bubbling.jpg" format="jpg"/>
+  <topicref href="pancake-mixture.jpg" format="jpg"/>
+  <topicref href="fruity-pancakes.jpg" format="jpg"/>
+ </topicref>
+</map>

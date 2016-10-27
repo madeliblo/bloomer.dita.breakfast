@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="t-pancakes" path="t-pancakes.html"/>
+   <appContext helpID="t-veggs" path="t-veggs.html"/>
+   <appContext helpID="t-donuts" path="t-donuts.html"/>
+   <appContext helpID="t-frenchtoast" path="t-frenchtoast.html"/>
+</map>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-veggs">
+    <title>Vegan Eggs Recipe</title>
+    <shortdesc>These "eggs" can be paired with any choosings of your liking, such as toast, fruits,
+        etc.</shortdesc>
+    <taskbody>
+        <prereq>Materials for this recipe include a large skillet and a stovetop. The ingredients are as follows:<ul>
+                <li>2 (16 oz.) packages of firm or extra firm tofu packed in water</li>
+                <li>2 tablespoons of vegan margarine (such as Earth Balance)</li>
+            <li>2½ tablespoons of nutritional yeast</li>
+            <li>1¼ teaspoons of granulated garlic</li>
+            <li>1¼ teaspoons of granulated onion</li>
+            <li>¾ teaspoon of pink or sea salt (or more to taste)</li>
+            <li>½ teaspoon of black pepper (or more to taste)</li>
+            <li>⅛ teaspoon of turmeric</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>How to make:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open the two packages of tofu, and drain the water.</cmd>
+            </step>
+            <step>
+                <cmd>Add the margarine to a large skillet, and turn the heat to medium.</cmd>
+                <stepresult>
+                    <fig id="fig_l1f_mc3_tx">
+                        <title>Margarine in Pan</title>
+                        <image href="margarine.jpg" id="image_m1f_mc3_tx"/>
+                    </fig>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Crumble the tofu into the pan, and toss with the margarine.</cmd></step>
+            <step>
+                <cmd>Sprinkle the onion, garlic, turmeric, salt, and pepper over the tofu, and stir to mix.</cmd>
+            </step>
+            <step>
+                <cmd>Cook on medium for approximately 5 minutes, stirring occasionally to prevent sticking.</cmd>
+                <info>Use a lower heat if using a cast iron skillet.</info>
+            </step>
+            <step>
+                <cmd>When most of the water is cooked out of the tofu, add nutritional yeast and fold it into the tofu.</cmd>
+            </step>
+            <step>
+                <cmd>Continue to cook over a medium heat. If you desire browning, let the tofu cook on one side, and then use a spatula to turn it over. Continue this process until desired amount of browning is achieved.</cmd>
+                <stepresult>
+                    <fig id="fig_hbc_qc3_tx">
+                        <title>Completed &quot;Eggs&quot;</title>
+                        <image href="vegan-eggs.jpg" id="image_ibc_qc3_tx"/>
+                    </fig>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Serve as is, or add any extra toppings or seasonings of your choice!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

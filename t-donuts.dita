@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-donuts">
+    <title>Spiced Apple Cider Donuts Recipe</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq>Materials for this recipe include a measuring cup, a donut pan, a mixing bowl, a
+            whisk, and an oven. The ingredients are as follows:<ul>
+                <li>1 cup of white spelt flour</li>
+                <li>½ cup of coconut sugar</li>
+                <li>1½ teaspoons of baking powder</li>
+                <li>⅛ teaspoon salt</li>
+                <li>¼ teaspoon of nutmeg</li>
+                <li>¾ teaspoon of cinnamon</li>
+                <li>¼ teaspoon of ginger</li>
+                <li>½ cup of apple cider</li>
+                <li>½ teaspoon of apple cider vinegar</li>
+                <li>1 teaspoon of vanilla extract</li>
+                <li>2 tablespoons of unsweetened applesauce</li>
+                <li>¼ cup of vegan buttery spread, melted</li>
+                <li>1 tablespoon of sugar</li>
+                <li audience="mom">2 slices of cooked bacon, optional</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>How to make:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat the oven to 350 degrees, and lightly grease the donut pan.</cmd>
+            </step>
+            <step>
+                <cmd>Place the flour, coconut sugar, salt, baking powder, and spices in a bowl, and whisk together.</cmd>
+            </step>
+            <step>
+                <cmd>Add the apple cider, vinegar, vanilla extract, applesauce, and melted vegan buttery spread, and stir well.</cmd>
+            </step>
+            <step>
+                <cmd>Spoon the mixture into the donut pan, and smooth out with the back of the spoon.</cmd>
+            </step>
+            <step>
+                <cmd>Bake at 350 degrees for 10-12 minutes.</cmd>
+            </step>
+            <step audience="mom"><cmd>If you want bacon included on your donuts, slice them into bits while you are waiting for the donuts to finish.</cmd></step>
+            <step><cmd>Let them cool in the pan for about 5 minutes, then overturn the pan to remove the donuts.
+            </cmd></step>
+            <step>
+                <cmd>Dip warm donuts into the sugar to coat, and enjoy.</cmd>
+            </step>
+            <step audience="mom"><cmd>Sprinkle bacon bits onto donuts if you chose to use it as a topping.
+                </cmd><stepresult>
+                    <fig id="fig_uwh_4rh_tx">
+                        <title>Spiced Apple Cider Donuts</title>
+                        <image href="donuts.jpg" id="image_vwh_4rh_tx"/>
+                    </fig>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

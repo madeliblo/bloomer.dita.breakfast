@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-pancakes">
+    <title>Pancakes Recipe</title>
+    <shortdesc>These pancakes can be paired with toppings of your choice, such as fruit.</shortdesc>
+    <taskbody>
+        <prereq>Materials for this recipe include a measuring cup, a mixing bowl, a skillet, and a
+            stovetop. The ingredients are as follows:<ul>
+                <li audience="armando">1¼ cups of all-purpose flour</li>
+                <li audience="mom">1½ cups of all-purpose flour</li>
+                <li audience="armando">2 tablespoons of white sugar</li>
+                <li audience="armando">2 teaspoons of baking powder</li>
+                <li audience="mom">3½ teaspoons of baking powder</li>
+                <li audience="armando">½ teaspoon of salt</li>
+                <li audience="mom">1 teaspoon of salt</li>
+                <li audience="armando">¼ cups of water</li>
+                <li audience="armando">1 tablespoon of coconut oil</li>
+                <li audience="mom">1 tablespoon of white sugar</li>
+                <li audience="mom">1¼ cups of milk</li>
+                <li audience="mom">1 egg</li>
+                <li audience="mom">3 tablespoons of butter, melted</li>
+                <li>maple syrup</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>How to make:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Sift the flour, sugar, baking powder, and salt into a large bowl.</cmd>
+            </step>
+                <step>
+                <cmd>With the exception of the oil, pour the rest of the ingredients into the bowl,
+                    and stir until blended.</cmd>
+                <info audience="armando">Mixture will be lumpy.</info>
+                <info audience="mom">Mixture will be smooth.</info>
+                <stepresult>
+                    <fig id="fig_hqk_5yh_tx">
+                        <title>Pancake Mixture</title>
+                        <image href="pancake-mixture.jpg" id="image_iqk_5yh_tx"/>
+                    </fig>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Heat a lightly oiled skillet over medium-high heat.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the batter onto the skillet, making the size of the pancake to your preference.</cmd>
+            </step>
+            <step>
+                <cmd>Cook until bubbles form and the edges are dry.</cmd>
+            <stepresult>
+                    <fig id="fig_hbc_tyh_tx">
+                        <title>Pancake Ready to Flip</title>
+                        <image href="pancake-bubbling.jpg" id="image_ibc_tyh_tx"/>
+                    </fig>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Flip, and cook until lightly browned on the other side.</cmd>
+            </step>
+            <step>
+                <cmd>Repeat with remaining batter.</cmd>
+            </step>
+            <step>
+                <cmd>Top the pancakes with fruits of your choice, or just pour some maple syrup on
+                    top, and enjoy!</cmd>
+                <stepresult>
+                    <fig id="fig_rvd_hzh_tx">
+                        <title>Blueberry-Topped Pancakes</title>
+                        <image href="fruity-pancakes.jpg" id="image_svd_hzh_tx"/>
+                    </fig>
+                </stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>
